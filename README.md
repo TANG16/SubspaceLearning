@@ -1,2 +1,3 @@
-# SubspaceLearning
-dimension reduction with python
+# 人脸数据集上的降维实验
+* python降维
+
